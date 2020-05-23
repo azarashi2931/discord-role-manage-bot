@@ -22,5 +22,5 @@ class MyBot(commands.Bot):
         print('-----')
 
 if __name__ == '__main__':
-    bot = MyBot(command_prefix='!role ')
+    bot = MyBot(command_prefix='!')
     bot.run(bottoken.get_token())

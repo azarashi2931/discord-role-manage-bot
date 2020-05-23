@@ -1,0 +1,1 @@
+discordrolebot: python3 server.py
